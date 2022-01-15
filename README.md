@@ -1,1 +1,1 @@
-# django
+# docker-compose up
